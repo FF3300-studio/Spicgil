@@ -10,7 +10,7 @@ Thumbnail:
 
 ----
 
-Descrizione: 
+Descrizione: Il Sindacato Pensionati Italiani (Spi) organizza e riunisce tutti i pensionati, le pensionate e le persone anziane aderenti alla Cgil. Il nostro obiettivo principale, la nostra missione, è tutelare tutte quelle persone che, terminata l’attività lavorativa, hanno bisogno di supporto, di aiuto e di continuare a essere rappresentate.
 
 ----
 
@@ -82,7 +82,7 @@ Collection-pagination-next:
 
 ----
 
-Keywords: 
+Keywords: sindacato pensionati cgil, spi, spi cgil, chi siamo, about
 
 ----
 
