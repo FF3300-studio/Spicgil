@@ -2,6 +2,10 @@ Title: “Conoscere per resistere”: il 5 e 6 novembre a Spino d’Adda e Milan
 
 ----
 
+Descrizione: “Conoscere per resistere”, l’assemblea nazionale dei volontari antimafia promossa dallo Spi Cgil si terrà il 5 e 6 novembre a Spino d'Adda.
+
+----
+
 Immagine: - file://eVwWTt92NXymgKO4
 
 ----
@@ -10,11 +14,11 @@ Thumbnail: - file://eVwWTt92NXymgKO4
 
 ----
 
-Descrizione: “Conoscere per resistere”, l’assemblea nazionale dei volontari antimafia promossa dallo Spi Cgil si terrà il 5 e 6 novembre a Spino d'Adda.
+Date: 
 
 ----
 
-Dove: 
+Dove: Spino d'Adda
 
 ----
 
@@ -30,6 +34,10 @@ Appuntamenti:
 
 - 
   giorno: 2025-11-05
+  orario_inizio: 09:30:00
+  orario_fine: ""
+- 
+  giorno: 2025-11-06
   orario_inizio: 09:30:00
   orario_fine: ""
 
