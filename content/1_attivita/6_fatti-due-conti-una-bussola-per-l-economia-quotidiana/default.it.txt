@@ -1,0 +1,134 @@
+Title: Fatti due conti - Una bussola per l’economia quotidiana
+
+----
+
+Descrizione: Il 19 novembre viene presentata a Torino la seconda guida della collana “Non ci casco”
+
+----
+
+Immagine: - file://vjwamhkwvdrq6ev8
+
+----
+
+Thumbnail: - file://vjwamhkwvdrq6ev8
+
+----
+
+Date: 
+
+----
+
+Dove: Torino
+
+----
+
+Child-category-selector: Contrattazione Sociale
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti:
+
+- 
+  giorno: 2025-11-19
+  orario_inizio: 10:00:00
+  orario_fine: ""
+
+----
+
+Deadline: 
+
+----
+
+Num-max: 
+
+----
+
+Correlati: 
+
+----
+
+Team: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: guida, fisco, risparmio
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>Il 19 novembre viene presentata a Torino la seconda guida della collana “Non ci casco” realizzata da Spi Cgil, Federconsumatori e Liberetà per accrescere la consapevolezza delle scelte dei cittadini-consumatori, in materie che spaziano dall’energia al denaro, dal cibo alla sicurezza in casa.</p><p>“<a href=\"https://www.libereta.it/prodotto/fatti-due-conti-una-bussola-per-leconomia-quotidiana/\">Fatti due conti. Una bussola per l’economia quotidiana</a>”, dedicata all’educazione finanziaria, è uno strumento che offre informazioni utili per gestire meglio il proprio denaro in un momento in cui le scelte politiche non garantiscono giusti adeguamenti alle pensioni e la tutela del potere d’acquisto.</p><p>Appuntamento all’Arsenale della Pace a partire dalle ore 10.</p>"},"id":"196abecd-7aa9-4ba3-a1d5-1b684a7f0007","isHidden":false,"type":"text"}],"id":"db022c8e-4d27-4162-98e0-d1673993fc3e","width":"1/1"}],"id":"52b36f0d-bbc9-43d4-ab05-d1c1e1110505"}]
+
+----
+
+Parent-collection-options: calendar
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Collection-pagination: false
+
+----
+
+Data-di-pubblicazione: 
+
+----
+
+Data-pubblicazione-toggle: false
+
+----
+
+Uuid: 6nolretdlpgw05mj

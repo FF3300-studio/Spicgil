@@ -6,10 +6,6 @@ Descrizione: Il prossimo 3 ottobre 2023 a Roma si terranno gli Stati Generali pr
 
 ----
 
-Dove: 
-
-----
-
 Immagine: - file://NaRfEqGypTBKTbgR
 
 ----
@@ -18,7 +14,15 @@ Thumbnail: - file://NaRfEqGypTBKTbgR
 
 ----
 
-Child-category-selector: Dipartimento Diritti e Benessere
+Date: 
+
+----
+
+Dove: 
+
+----
+
+Child-category-selector: Diritti e Benessere
 
 ----
 
@@ -30,11 +34,19 @@ Appuntamenti:
 
 ----
 
-Data-di-pubblicazione: 2023-09-20
+Deadline: 
+
+----
+
+Num-max: 
 
 ----
 
 Correlati: 
+
+----
+
+Team: 
 
 ----
 
@@ -102,15 +114,19 @@ Collection-categories-manager-toggle: false
 
 ----
 
+Collection-pagination: false
+
+----
+
+Data-di-pubblicazione: 2023-09-20
+
+----
+
 Data-pubblicazione-toggle: true
 
 ----
 
 Dipartimenti: Dipartimento Previdenza e Fisco
-
-----
-
-Deadline: 
 
 ----
 

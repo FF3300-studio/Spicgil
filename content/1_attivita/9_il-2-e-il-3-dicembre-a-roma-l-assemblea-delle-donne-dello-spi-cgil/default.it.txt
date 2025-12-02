@@ -1,0 +1,134 @@
+Title: Il 2 e il 3 dicembre a Roma l’Assemblea delle Donne dello Spi Cgil
+
+----
+
+Descrizione: Il coordinamento donne dello Spi Cgil torna a riunirsi a Roma per COMPAGNE.
+
+----
+
+Immagine: - file://7kumvid4ihtqpxjt
+
+----
+
+Thumbnail: - file://7kumvid4ihtqpxjt
+
+----
+
+Date: 
+
+----
+
+Dove: Roma - Centro Congressi Frentani
+
+----
+
+Child-category-selector: Organizzazione, Giovani Genere e Legalità
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti:
+
+- 
+  giorno: 2025-12-02
+  orario_inizio: 14:30:00
+  orario_fine: ""
+
+----
+
+Deadline: 
+
+----
+
+Num-max: 
+
+----
+
+Correlati: 
+
+----
+
+Team: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: cgil, spi, spi cgil, donne, compagne
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>Il coordinamento donne dello Spi Cgil torna a riunirsi a Roma per COMPAGNE. Il 2 e il 3 dicembre si terrà l’Assemblea nazionale, in programma al Centro Congressi Frentani, e metterà al centro il ruolo, le esperienze e le prospettive delle donne nella società, nel lavoro, nella salute e nei percorsi di cittadinanza attiva.</p><p>I lavori si apriranno martedì 2 dicembre alle 14.30 con l’introduzione di Claudia Carlino, Segretaria nazionale Spi Cgil e responsabile del Coordinamento Donne. A seguire, alle 15.00, si terrà il focus “Donne e salute” con gli interventi di Antonella Cazzato, del Dipartimento socio-sanitario Spi Cgil, e Fulvia Signani, docente presso l’Università di Ferrara, esperta di sociologia di genere e della salute.</p><p>La sessione proseguirà con la presentazione delle esperienze dai territori e si concluderà alle 16.30 con l’intervento di Lara Ghiglione, Segretaria nazionale Cgil.</p><p>Alle 17.00, infine, spazio al racconto collettivo “Mai fuori tempo”, coordinato da Daniela Morozzi, con musiche dal vivo di Giuseppe Scarpato.</p><p>Mercoledì 3 dicembre i lavori riprenderanno alle ore 9.00 con il tema “Che genere di longevità”, un confronto a partire dalla ricerca condotta da Miriam Di Paola. Interverranno Silvana Cappuccio, Spi Cgil, Estela Díaz, Ministra delle Donne e della Diversità della provincia di Buenos Aires, Hélène Bidard Vicesindaca di Parigi per le Pari Opportunità, e ci saranno anche contributi del Coordinamento Ferpa.</p><p>Seguirà il dibattito e, nel pomeriggio, l’ultimo panel: “Unit3: educhiamoci, agitiamoci, organizziamoci”, un momento di confronto intergenerazionale con Sabrina Lo Parco (UDU), Sophie Volpato (Rete degli Studenti Medi), Sara Pantoni e Anahi Mariotti (GenərAct), moderato dalla giornalista Antonia Fama di Collettiva.</p><p>Le conclusioni saranno affidate alla segretaria generale dello Spi Cgil Tania Scacchetti.</p>"},"id":"196abecd-7aa9-4ba3-a1d5-1b684a7f0007","isHidden":false,"type":"text"}],"id":"db022c8e-4d27-4162-98e0-d1673993fc3e","width":"1/1"}],"id":"52b36f0d-bbc9-43d4-ab05-d1c1e1110505"}]
+
+----
+
+Parent-collection-options: calendar
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Collection-pagination: false
+
+----
+
+Data-di-pubblicazione: 
+
+----
+
+Data-pubblicazione-toggle: false
+
+----
+
+Uuid: 8d4vxw1plar9ktyz

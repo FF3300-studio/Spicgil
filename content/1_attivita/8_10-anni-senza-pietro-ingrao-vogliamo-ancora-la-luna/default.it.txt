@@ -1,0 +1,134 @@
+Title: 10 anni senza Pietro Ingrao. “Vogliamo ancora la Luna”
+
+----
+
+Descrizione: A dieci anni dalla scomparsa di Pietro Ingrao, i pensionati della Cgil dedicano una giornata di riflessione e memoria a una delle figure più alte e visionarie della Sinistra italiana
+
+----
+
+Immagine: - file://pwyuxpxxxbcvwhr7
+
+----
+
+Thumbnail: - file://pwyuxpxxxbcvwhr7
+
+----
+
+Date: 
+
+----
+
+Dove: Roma - Acquario Romano
+
+----
+
+Child-category-selector: Organizzazione
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti:
+
+- 
+  giorno: 2025-11-27
+  orario_inizio: 09:30:00
+  orario_fine: ""
+
+----
+
+Deadline: 
+
+----
+
+Num-max: 
+
+----
+
+Correlati: 
+
+----
+
+Team: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: cgil, spi, spi cgil, ingrao, pci, sinistra, memoria
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>A dieci anni dalla scomparsa di Pietro Ingrao, i pensionati della Cgil dedicano una giornata di riflessione e memoria a una delle figure più alte e visionarie della Sinistra italiana, capace di unire impegno politico, passione civile e profondità intellettuale.</p><p>L’iniziativa, dal titolo “10 anni senza Pietro Ingrao. Vogliamo ancora la Luna”, è in programma il 27 novembre alle 9.30 a Roma, presso l’Acquario Romano in Piazza Manfredo Fanti.</p><p>L’appuntamento si propone di rileggere l’eredità di Ingrao alla luce delle sfide del presente: la democrazia, il lavoro, la partecipazione e la speranza in un futuro più giusto.</p><p>Dopo i saluti di Celeste Ingrao e l’introduzione di Stefano Landini, Segretario organizzativo dello Spi Cgil nazionale, seguirà la relazione di Francesco Palaia, responsabile delle Politiche della Memoria del sindacato pensionati.</p><p>Interverranno Luciana Castellina, Carlo Leoni, Arturo Scotto, Walter Tocci, Vincenzo Vita e Nichi Vendola, testimoni e protagonisti di una stagione politica che ha visto in Pietro Ingrao un punto di riferimento morale e culturale.</p><p>Le conclusioni saranno affidate a Tania Scacchetti, Segretaria generale dello Spi Cgil.</p>"},"id":"196abecd-7aa9-4ba3-a1d5-1b684a7f0007","isHidden":false,"type":"text"}],"id":"db022c8e-4d27-4162-98e0-d1673993fc3e","width":"1/1"}],"id":"52b36f0d-bbc9-43d4-ab05-d1c1e1110505"}]
+
+----
+
+Parent-collection-options: calendar
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Collection-pagination: false
+
+----
+
+Data-di-pubblicazione: 
+
+----
+
+Data-pubblicazione-toggle: false
+
+----
+
+Uuid: 8rnioxyksjxem96q

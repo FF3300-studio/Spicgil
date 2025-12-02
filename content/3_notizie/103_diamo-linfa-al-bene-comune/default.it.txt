@@ -1,0 +1,133 @@
+Title: Diamo linfa al bene comune
+
+----
+
+Descrizione: I pensionati della Cgil sostengono la campagna di Libera che chiede risorse per i beni confiscati alle mafie.
+
+----
+
+Immagine: - file://d0rmlmgrsmie0py0
+
+----
+
+Thumbnail: - file://d0rmlmgrsmie0py0
+
+----
+
+Date: 
+
+----
+
+Dove: 
+
+----
+
+Child-category-selector: Giovani Genere e Legalità
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Deadline: 
+
+----
+
+Num-max: 
+
+----
+
+Correlati: 
+
+----
+
+Team: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, legalità, antimafia
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>I pensionati della Cgil sostengono la campagna di Libera che chiede risorse per i beni confiscati alle mafie.</p><p>Con una piccola parte del Fondo Unico Giustizia – il 2% - potremmo portare delle risorse considerevoli alle esperienze di valorizzazione e riuso dei beni confiscati alle mafie. Si tratterebbe di un ulteriore reinvestimento di risorse sottratte al potere mafioso e alla corruzione.</p><p>Per questa ragione, e con questo obiettivo, aderiamo alla campagna promossa dall’Associazione Libera contro le mafie che ha lanciato una raccolta firme che ci accompagnerà fino al 7 marzo, giorno dell’anniversario della legge 109/96.</p><p>Oltre a partecipare alle iniziative promosse sul territorio, è possibile <a href=\"https://www.libera.it/it-schede-2785-diamo_linfa_al_bene\">aderire alla petizione online</a>.</p><p>Tutte le informazioni sono disponibili sul sito www.libera.it</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Collection-pagination: false
+
+----
+
+Data-di-pubblicazione: 2024-10-19
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Uuid: dsy8naoilexizsa4

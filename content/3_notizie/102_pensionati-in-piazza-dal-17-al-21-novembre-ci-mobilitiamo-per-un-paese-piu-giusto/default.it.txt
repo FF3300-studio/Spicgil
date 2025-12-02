@@ -1,0 +1,133 @@
+Title: Pensionati in piazza - Dal 17 al 21 novembre ci mobilitiamo per un paese più giusto.
+
+----
+
+Descrizione: Mentre il governo investe nelle armi, noi difendiamo le persone.
+
+----
+
+Immagine: - file://kj9jbesvlquxfqp4
+
+----
+
+Thumbnail: - file://kj9jbesvlquxfqp4
+
+----
+
+Date: 
+
+----
+
+Dove: 
+
+----
+
+Child-category-selector: Organizzazione
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti: 
+
+----
+
+Deadline: 
+
+----
+
+Num-max: 
+
+----
+
+Correlati: 
+
+----
+
+Team: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: pensionati, cgil, spi, spi cgil, pensioni, manifestazione, governo
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>Mentre il governo investe nelle armi noi difendiamo le persone e denunciamo l’ennesima legge di bilancio ingiusta. Per questa ragione, nella settimana dal 17 al 21 novembre, ci trovi in piazza in tutt’Italia con una serie manifestazioni ed iniziative di protesta e informazione.</p><p>In tutto il Paese sono già in programma oltre 300 iniziative di volantinaggio, quasi 100 assemblee, dibattiti e incontri pubblici, e più di 70 presidi, sit-in e flash mob, oltre a una manifestazione regionale. Numeri importanti – e ancora in crescita – che testimoniano la forte mobilitazione delle pensionate e dei pensionati dello Spi Cgil.</p><p>Le richieste sono chiare e da troppo tempo ignorate:</p><p>•⁠ ⁠<strong>Tutela del potere d’acquisto</strong>, messo a rischio dall’inflazione e da scelte politiche sbagliate.</p><p>•⁠ <strong>⁠Rispetto del diritto alla pensione</strong>, che deve essere adeguata, giusta e dignitosa.</p><p>•⁠ ⁠<strong>Diritto alla salute</strong>, gravemente compromesso da un sistema sanitario pubblico indebolito e sottofinanziato.</p><p>• <strong>Non Autosufficienza</strong>: finanziare la riforma, per il diritto ad essere curati a casa propria o in luoghi di cura familiari e accoglienti</p><p>La settimana di mobilitazione dello Spi Cgil precede di poche settimane lo sciopero generale della Cgil del 12 dicembre, durante il quale i pensionati sosterranno con forza le ragioni dei lavoratori attivi contro la manovra economica.</p><p>Lo Spi Cgil sarà dunque in piazza, in tutte le regioni, per informare, protestare e rivendicare una politica economica e sociale più giusta e attenta ai bisogni dei cittadini e delle cittadine. Perché difendere i diritti di chi ha lavorato una vita significa difendere il futuro di tutti.</p>"},"id":"e75d3b89-0b38-40b6-ae1e-73dcdddc391b","isHidden":false,"type":"text"}],"id":"7a3fac00-34eb-4d79-a3c7-2fed8c05956a","width":"1/1"}],"id":"10fe416b-5368-4520-b314-0c211d98a261"}]
+
+----
+
+Parent-collection-options: blog
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Collection-pagination: false
+
+----
+
+Data-di-pubblicazione: 2024-10-19
+
+----
+
+Data-pubblicazione-toggle: true
+
+----
+
+Dipartimenti: Dipartimento Previdenza e Fisco
+
+----
+
+Uuid: hmtai95qimf3ehxl

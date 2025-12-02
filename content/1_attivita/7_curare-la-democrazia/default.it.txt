@@ -1,0 +1,134 @@
+Title: Curare la democrazia
+
+----
+
+Descrizione: la Fondazione Nilde Iotti e lo SPI CGIL Nazionale promuovono una giornata di riflessione e impegno per riaffermare il valore della partecipazione, dell’uguaglianza e della responsabilità collettiva.
+
+----
+
+Immagine: - file://phrk8kgndird55rx
+
+----
+
+Thumbnail: - file://phrk8kgndird55rx
+
+----
+
+Date: 
+
+----
+
+Dove: Roma - Centro Congressi Frentani
+
+----
+
+Child-category-selector: Organizzazione, Giovani Genere e Legalità
+
+----
+
+Parent-category-manager: 
+
+----
+
+Appuntamenti:
+
+- 
+  giorno: 2025-12-04
+  orario_inizio: 09:30:00
+  orario_fine: ""
+
+----
+
+Deadline: 
+
+----
+
+Num-max: 
+
+----
+
+Correlati: 
+
+----
+
+Team: 
+
+----
+
+Default-marker: 
+
+----
+
+Locator: 
+
+----
+
+Zoom-mappa: 
+
+----
+
+Centro-mappa: 
+
+----
+
+Map-style: mapbox://styles/mapbox/light-v11
+
+----
+
+Map-key: pk.eyJ1IjoiZGF2aWRlZ2lvcmdldHRhIiwiYSI6ImNtMjk1MmFubTAyMXQycXF1ZXVyaTYyMjYifQ.d87xqkbSyGWG8s0xJFfIKg
+
+----
+
+Collection-pagination-prev: contenuti precedenti
+
+----
+
+Collection-pagination-number: 9
+
+----
+
+Collection-pagination-next: altri contenuti
+
+----
+
+Keywords: donne, democrazia, nilde iotti, cgil, spi, spi cgil, schlein, pd
+
+----
+
+Contenuto: [{"attrs":{"custom_css":"","sticky":"false","sticky_offset":100,"custom_id":"","anchor":"false","anchor_name":"","scadenza":"false"},"columns":[{"blocks":[{"content":{"text":"<p>In un tempo in cui la democrazia è messa a dura prova da trasformazioni economiche, sociali e geopolitiche profonde, la Fondazione Nilde Iotti e lo SPI CGIL Nazionale promuovono una giornata di riflessione e impegno per riaffermare il valore della partecipazione, dell’uguaglianza e della responsabilità collettiva.</p><p>L’iniziativa, intitolata “Curare la democrazia” e presieduta da Valeria Fedeli, si aprirà con i saluti di Tania Scacchetti, Segretaria Generale dello Spi Cgil e ospiterà gli interventi di accademici ed esperti come Francesca Russo, Riccardo Alcaro, Francesco Clementi, Maurizio Franzini, Lucio Caracciolo e Dario Tuorto i quali offriranno uno sguardo approfondito sulla tenuta e le sfide della democrazia in Italia, in Europa e nel mondo.</p><p>Sotto la conduzione della giornalista Flavia Fratello, seguiranno una tavola rotonda su “Le donne e la cura della democrazia”, con la partecipazione di esponenti del mondo politico e istituzionale tra cui Elly Schlein, Maria Elena Boschi, Stefania Proietti, Svetlana Celli, Sindi Manushi, Anna Finocchiaro, Tania Scacchetti e Livia Turco.</p><p>L’iniziativa è in programma il 4 dicembre a Roma, presso il Centro Congressi di Via dei Frentani, a partire dalle 9.30. Per partecipare al convegno occorre inviare la propria adesione a info@fondazionenildeiotti.it</p>"},"id":"196abecd-7aa9-4ba3-a1d5-1b684a7f0007","isHidden":false,"type":"text"}],"id":"db022c8e-4d27-4162-98e0-d1673993fc3e","width":"1/1"}],"id":"52b36f0d-bbc9-43d4-ab05-d1c1e1110505"}]
+
+----
+
+Parent-collection-options: calendar
+
+----
+
+Parent-categories-toggle: true
+
+----
+
+Collection-toggle: false
+
+----
+
+Collection-options: 
+
+----
+
+Collection-categories-manager-toggle: false
+
+----
+
+Collection-pagination: false
+
+----
+
+Data-di-pubblicazione: 
+
+----
+
+Data-pubblicazione-toggle: false
+
+----
+
+Uuid: x8ykkzbkzkwtbhh3
